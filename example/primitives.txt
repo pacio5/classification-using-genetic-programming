@@ -1,0 +1,4 @@
+Name: add, Arity: 2
+Name: sub, Arity: 2
+Name: mul, Arity: 2
+Name: protectedDiv, Arity: 2

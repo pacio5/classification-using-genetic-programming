@@ -1,0 +1,1 @@
+sub(petal_width, protectedDiv(protectedDiv(petal_width, sepal_width), petal_length))
